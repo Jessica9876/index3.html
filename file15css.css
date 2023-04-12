@@ -1,0 +1,30 @@
+#wrapper{
+	width: 960px;
+	margin: 0 auto;/*agar wallpaper tetap berada di tengah*/
+}	
+#header{
+	width: 100%;
+	height: 50px;
+	...
+	margin-bottom: 10px;
+}
+#footer{
+	width: 100%;
+	height: 40px;
+	margin-top: 10px;
+
+}
+
+#lanjut{
+	border-radius: 50px;
+	width: 150px;
+	background-color: pink;
+
+}
+#footer{
+	width: 100%;
+	height: 100px;
+	margin-bottom: 10px;
+	border-radius: 100px;
+
+}

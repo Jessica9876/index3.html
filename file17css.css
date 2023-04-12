@@ -1,0 +1,47 @@
+#wrapper{
+	width: 960px;
+	margin: 0 auto;/*agar wallpaper tetap berada di tengah*/
+}	
+#header{
+	width: 100%;
+	height: 50px;
+	...
+	margin-bottom: 10px;
+}
+#artikel{
+	width: 1500px;
+	height:750px;
+	float:left;
+	background:red;
+}
+#recorners2{
+	margin-top: 30px;
+	border-radius: 10px;
+	background: #73AD21;
+	padding: 5px;
+	width: 150px;
+	height: 30px;
+	margin-right: 20px;
+}
+#recorners1{
+	border-radius: 25px;
+	background: #73AD21;
+	padding: 20px;
+	width: 150px;
+	height: 20px;
+	margin-bottom: 20px;
+}
+.footer{
+	width:1000px;
+	height:400px;
+	
+	background-image: "C:\NH-html\images\gbr (3).jpg";
+	border-radius:20px;
+	left:0px;
+	top:8000px;
+	}
+	.para1{
+		position:relative;
+		left:0px;
+		top:300px;
+	}

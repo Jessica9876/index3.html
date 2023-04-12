@@ -1,0 +1,50 @@
+#wrapper{
+   width: 1000px;
+	margin:0 auto;
+}
+
+}
+#content{
+	padding: 20px;
+	background:green;
+	margin-bottom: 10px;
+	...
+	overflow:hidden;
+}
+#artikel{
+	width: 500px;
+	height:500px;
+	float:left;
+	background:red;
+}
+#sidebar{
+	width: 500px;
+	height:500px;
+	float:right;
+	background:yellow;
+}
+#footer{
+	width: 100%;
+	height: 40px;
+	margin-bottom: 10px;
+
+}
+#recorners1{
+	border-radius: 25px;
+	background: #73AD21;
+	padding: 20px;
+	width: 950px;
+	height: 20px;
+}
+#recorners2{
+	margin-top: 40px;
+	border-radius: 20px;
+	background: #73AD21;
+	padding: 5px;
+	width: 300px;
+	height: 300px;
+	margin-right: 30px;
+}
+#site{
+	margin-left: 10px;
+}
